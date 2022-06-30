@@ -1,2 +1,4 @@
 # OS_lab4
-IO Scheduler
+## IO Scheduler
+
+This lab you implements and simulates the scheduling and optimization of I/O operations. Applications submit their IO requests to the IO subsystem.
